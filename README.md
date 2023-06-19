@@ -9,5 +9,6 @@ Note: Your return value must have an absolute or relative error of at most 10e-6
 Constraints
 
 1≤R,C≤100
+
 0≤G(i,j)≤1
 # meta_cp
